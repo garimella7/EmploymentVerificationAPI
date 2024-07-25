@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmploymentVerificationAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmploymentVerificationAPI.props",
+      "PackagePath": "build\\EmploymentVerificationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmploymentVerificationAPI.props",
+      "PackagePath": "buildMultiTargeting\\EmploymentVerificationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmploymentVerificationAPI.props",
+      "PackagePath": "buildTransitive\\EmploymentVerificationAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

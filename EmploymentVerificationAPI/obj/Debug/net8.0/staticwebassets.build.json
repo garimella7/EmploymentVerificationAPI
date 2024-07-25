@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "WM/liD269kpzHTUw2AJI9phF+K7nhW0ehPy5s7qcOiU=",
+  "Source": "EmploymentVerificationAPI",
+  "BasePath": "_content/EmploymentVerificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmploymentVerificationAPI\\wwwroot",
+      "Source": "EmploymentVerificationAPI",
+      "ContentRoot": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\",
+      "BasePath": "_content/EmploymentVerificationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\Index.html",
+      "SourceId": "EmploymentVerificationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\",
+      "BasePath": "_content/EmploymentVerificationAPI",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}
