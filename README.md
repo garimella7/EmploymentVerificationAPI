@@ -19,7 +19,7 @@ It also contains a Index file where user can enter the employment details and on
 13. Included UseStaticFiles() and MapFallbackToFile() in program.cs to serve the static files
 14. The html form captures the employment details and submits the request
 15. Included a JavaScript code which captures the form data and makes the API call to "VerifyEmployee" POST action method
-16. Ensured the request is sent to the POST action using action using correct URL
+16. Ensured the request is sent to the POST action method using correct URL
 17. The response is then displayed in the UI as "Verified" or "Not verified"
 18. Added AddCors() and UseCors() in program.cs file to enable CORS and serve cross origin requests
 19. Included UseRouting() in program.cs to enable routing functionality
