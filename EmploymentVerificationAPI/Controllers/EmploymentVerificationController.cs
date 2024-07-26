@@ -19,6 +19,15 @@ namespace EmploymentVerificationAPI.Controllers
         [HttpPost("VerifyEmployee")]
         public IActionResult VerifyEmployee([FromBody] EmployeeVerificationRequest employeeVerificationRequest)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new
+                {
+                    message = "Validation failed",
+                    errors = ModelState.Values.SelectMany(v => v.Errors)
+                });
+            }
+
             var employee = _verifyEmploymentService.GetEmployees().FirstOrDefault(e =>
                             e.EmployeeID == employeeVerificationRequest.EmployeeId &&
                             e.CompanyName == employeeVerificationRequest.CompanyName &&
