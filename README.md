@@ -1,7 +1,7 @@
 This application is used to verify the employee and return a response.
 It is created using ASP.Net core Web API framework.
 It contains a POST action method which takes the incoming request and verifies the employee and sends a response.
-It also contains a Index file where user can enter the employee details and on submitting the form the javascript code will make a API call and a response is received.
+It also contains a Index file where user can enter the employment details and on submitting the form the javascript code will make a API call and a response is received.
 
 **Steps used to create the application:**
 1. Opened Visual studio and created a ASP.Net Core Web API project
