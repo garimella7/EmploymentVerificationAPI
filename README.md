@@ -23,3 +23,13 @@ It also contains a Index file where user can enter the employment details and on
 17. The response is then displayed in the UI as "Verified" or "Not verified"
 18. Added AddCors() and UseCors() in program.cs file to enable CORS and serve cross origin requests
 19. Included UseRouting() in program.cs to enable routing functionality
+
+**Steps to run the Application:**
+1. Download the code in your local machine
+2. In the program.cs file, change the Url in the UseCors() method to match your port number
+3. In the index.html file, change the Url in the fetch method to match the port number so that the request is routed to the POST action method
+4. Build and run the application. It opens the Swagger UI where we can test the POST action method. The Url will be similiar to "https://localhost:7287/swagger/index.html".
+5. Enter the employment details and press execute which will generate the response
+6. To test the front end functionality, after running the application, change the Url to "https://localhost:7287/index.html" by removing "/swagger"
+7. It will redirect to the "index.html" form that is created where you can enter the employment details and press on "Verify Employment" button
+8. The response that is received will be displayed in the UI
