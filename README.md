@@ -24,6 +24,7 @@ It also contains a Index file where user can enter the employment details and on
 18. Added AddCors() and UseCors() in program.cs file to enable CORS and serve cross origin requests
 19. Included UseRouting() in program.cs to enable routing functionality
 
+
 **Steps to run the Application:**
 1. Download the code in your local machine
 2. In the program.cs file, change the Url in the UseCors() method to match your port number
