@@ -6,6 +6,7 @@ namespace EmploymentVerificationAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    // This controller class contains methods to handle the https requests for employment verification
     public class EmploymentVerificationController : ControllerBase
     {
         private readonly IVerifyEmploymentService _verifyEmploymentService;

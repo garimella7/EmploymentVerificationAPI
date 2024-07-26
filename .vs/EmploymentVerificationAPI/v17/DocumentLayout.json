@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\controllers\\employmentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\controllers\\employmentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\services\\verifyemploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\services\\verifyemploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\services\\iverifyemploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\services\\iverifyemploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|solutionrelative:employmentverificationapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647B127B-60DF-4707-B932-A2E60DC853CC}|EmploymentVerificationAPI\\EmploymentVerificationAPI.csproj|c:\\users\\ravi\\source\\repos\\employmentverificationapi\\employmentverificationapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,82 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.html",
               "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\Index.html",
               "RelativeDocumentMoniker": "EmploymentVerificationAPI\\wwwroot\\Index.html",
               "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\wwwroot\\Index.html",
               "RelativeToolTip": "EmploymentVerificationAPI\\wwwroot\\Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAATAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-25T18:20:25.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IVerifyEmploymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Services\\IVerifyEmploymentService.cs",
-              "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Services\\IVerifyEmploymentService.cs",
-              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Services\\IVerifyEmploymentService.cs",
-              "RelativeToolTip": "EmploymentVerificationAPI\\Services\\IVerifyEmploymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:51:06.459Z",
+              "WhenOpened": "2024-07-26T04:13:25.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VerifyEmploymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Services\\VerifyEmploymentService.cs",
-              "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Services\\VerifyEmploymentService.cs",
-              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Services\\VerifyEmploymentService.cs",
-              "RelativeToolTip": "EmploymentVerificationAPI\\Services\\VerifyEmploymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:47:00.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Program.cs",
-              "RelativeToolTip": "EmploymentVerificationAPI\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:25:01.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Globalusings.cs",
               "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Globalusings.cs",
               "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Globalusings.cs",
               "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Globalusings.cs",
               "RelativeToolTip": "EmploymentVerificationAPI\\Globalusings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T15:49:55.111Z",
+              "WhenOpened": "2024-07-26T04:11:03.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmploymentVerificationAPI\\Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:05:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EmploymentVerificationController.cs",
               "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Controllers\\EmploymentVerificationController.cs",
               "RelativeDocumentMoniker": "EmploymentVerificationAPI\\Controllers\\EmploymentVerificationController.cs",
               "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmploymentVerificationAPI\\EmploymentVerificationAPI\\Controllers\\EmploymentVerificationController.cs",
               "RelativeToolTip": "EmploymentVerificationAPI\\Controllers\\EmploymentVerificationController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T17:02:48.805Z",
               "EditorCaption": ""

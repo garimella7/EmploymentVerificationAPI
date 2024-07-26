@@ -136,3 +136,4 @@ C:\Users\Ravi\source\repos\EmploymentVerificationAPI\EmploymentVerificationAPI\o
 C:\Users\Ravi\source\repos\EmploymentVerificationAPI\EmploymentVerificationAPI\obj\Debug\net8.0\EmploymentVerificationAPI.genruntimeconfig.cache
 C:\Users\Ravi\source\repos\EmploymentVerificationAPI\EmploymentVerificationAPI\obj\Debug\net8.0\ref\EmploymentVerificationAPI.dll
 C:\Users\Ravi\source\repos\EmploymentVerificationAPI\EmploymentVerificationAPI\bin\Debug\net8.0\EmploymentVerificationAPI.staticwebassets.runtime.json
+C:\Users\Ravi\source\repos\EmploymentVerificationAPI\EmploymentVerificationAPI\obj\Debug\net8.0\EmploymentVerificationAPI.sourcelink.json

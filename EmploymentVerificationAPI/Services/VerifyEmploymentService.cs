@@ -1,5 +1,6 @@
 ﻿namespace EmploymentVerificationAPI.Services
 {
+    // This service class contains methods to get the required data for employment verification. We can include the dbContext here.
     public class VerifyEmploymentService : IVerifyEmploymentService
     {
         public IList<Employee> GetEmployees()
